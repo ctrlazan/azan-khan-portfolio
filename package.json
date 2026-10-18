@@ -1,0 +1,11 @@
+{
+  "name": "azan-khan-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Azan Khan — static HTML, CSS and JavaScript.",
+  "private": true,
+  "author": "Azan Khan",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000"
+  }
+}
